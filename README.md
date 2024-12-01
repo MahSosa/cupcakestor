@@ -72,7 +72,7 @@ A estrutura do projeto é organizada da seguinte forma:
 
 ### Autoria
 
-Este projeto foi desenvolvido por William Schwaab (<william@schwaab.me>) como parte do Projeto Integrador Transdisciplinar em Engenharia de Software II - UNICID - Cruzeiro Sul Virtual.
+Este projeto foi desenvolvido por Marcelo Sousa (<marcelo@sousa.me>) como parte do Projeto Integrador Transdisciplinar em Engenharia de Software II - UNICID - Cruzeiro Sul Virtual.
 
 Para mais informações, consulte a [documentação](https://github.com/bitebait/cupcakestore/tree/main/docs).
 
